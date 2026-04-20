@@ -35,6 +35,6 @@ Cada grupo deve incluir neste repositório:
   - `classificacao_redes.pdf` ou `classificacao_redes.png`
   - `README.md` com breve descrição do trabalho.
 
-##Livro ![Livro de Rede de computadores do Tanenbaum](https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up)
+##Livro ![Livro de Rede de computadores do Tanenbaum][(https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up)](https://staticbv.bvirtual.com.br/publicacoes/2610/thumbs/thumbnail_397_x_595.jpg)
 
 ![LIVRO]([image_url](https://staticbv.bvirtual.com.br/publicacoes/2610/thumbs/thumbnail_397_x_595.jpg))
