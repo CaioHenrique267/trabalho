@@ -37,4 +37,4 @@ Cada grupo deve incluir neste repositório:
 
 ##Livro ![Livro de Rede de computadores do Tanenbaum](https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up)
 
-![LIVRO](image_url)
+![LIVRO]([image_url](https://staticbv.bvirtual.com.br/publicacoes/2610/thumbs/thumbnail_397_x_595.jpg))
