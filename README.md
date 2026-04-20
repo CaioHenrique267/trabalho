@@ -37,4 +37,5 @@ Cada grupo deve incluir neste repositório:
 
 ##Livro ![Livro de Rede de computadores do Tanenbaum] https://m.media-amazon.com/images/I/51QZmHd0UGL._SY445_SX342_ML2_.jpg
 
-![LIVRO]([[image_url](https://staticbv.bvirtual.com.br/publicacoes/2610/thumbs/thumbnail_397_x_595.jpg)](https://m.media-amazon.com/images/I/51QZmHd0UGL._SY445_SX342_ML2_.jpg))
+![LIVRO](<img width="321" height="425" alt="image" src="https://github.com/user-attachments/assets/406b33de-9d2c-46d0-aa95-a1f30758839e" />
+)
