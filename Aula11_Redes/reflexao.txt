@@ -1,0 +1,1 @@
+A topologia em estrela é a mais adequada para redes residenciais, pois permite que todos os dispositivos se conectem a um ponto central (roteador), facilitando a manutenção, organização e estabilidade da rede.
