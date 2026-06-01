@@ -1,6 +1,14 @@
 # Avaliação 3 – Unidade 5  
 ## Segurança da Informação: Conceitos, Atributos, Ameaças e Mecanismos
 
+## Nome do Grupo: Caio Henrique, Felipe Roosevelt
+
+## Ameaça escolhida: Furto de Celular
+
+## Cartilha escolhida(link): https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/centro-de-excelencia-em-privacidade-e-seguranca/cert.br/fascilucos/fasciculo-furto-de-celular-govbr.pdf
+
+## Trabalho: file:///C:/Users/caiohenriquerocha317/Downloads/Avalia%C3%A7%C3%A3o%203%20%E2%80%93%20Unidade%205%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20Conceitos,%20Atributos,%20Amea%C3%A7as%20e%20Mecanismos.pdf
+
 ### Objetivo
 Produzir um **artefato criativo** que explique uma ameaça de segurança da informação, seus riscos e os mecanismos de proteção aplicáveis, conectando os conteúdos das Aulas 14 e 15.
 
