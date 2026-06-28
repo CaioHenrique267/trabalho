@@ -3,6 +3,9 @@
 ## Objetivo
 
 Conhecer a estrutura interna do computador e compreender como hardware e software trabalham juntos.
+## 📸 Ilustração
+
+![História da Computação](componentes.png)
 
 ---
 
