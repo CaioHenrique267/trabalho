@@ -3,6 +3,9 @@
 ## Objetivo
 
 Conhecer os princípios da segurança da informação e as boas práticas para proteção de dados.
+## 📸 Ilustração
+
+![História da Computação](seguranca.png)
 
 ---
 
