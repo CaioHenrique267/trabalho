@@ -11,6 +11,7 @@ Aplicar os conhecimentos adquiridos ao longo da disciplina por meio do desenvolv
 - Organização do Projeto
 - Documentação
 - Desenvolvimento
+
 - Apresentação
 
 ---
