@@ -4,6 +4,10 @@
 
 Estudar o funcionamento dos sistemas operacionais e sua importância para o gerenciamento dos recursos do computador.
 
+## 📸 Ilustração
+
+![História da Computação](sistemas-operacionais.png)
+
 ---
 
 ## Conteúdos
