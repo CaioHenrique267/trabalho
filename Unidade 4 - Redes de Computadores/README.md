@@ -3,6 +3,9 @@
 ## Objetivo
 
 Compreender como ocorre a comunicação entre computadores e dispositivos conectados em rede.
+## 📸 Ilustração
+
+![História da Computação](redes.png)
 
 ---
 
