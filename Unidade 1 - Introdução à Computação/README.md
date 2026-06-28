@@ -4,6 +4,9 @@
 
 Nesta unidade foram estudados os conceitos fundamentais da computação, proporcionando uma visão geral sobre a evolução dos computadores, seus componentes e a importância da informática no cotidiano.
 
+## 📸 Ilustração
+
+![História da Computação](historia-computadores.png)
 ---
 
 ## 📂 Conteúdo da Unidade
