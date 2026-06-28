@@ -4,6 +4,9 @@
 
 Aplicar os conhecimentos adquiridos ao longo da disciplina por meio do desenvolvimento das atividades propostas.
 
+## 📸 Ilustração
+
+![História da Computação](projeto-final.png)
 ---
 
 ## Conteúdos
